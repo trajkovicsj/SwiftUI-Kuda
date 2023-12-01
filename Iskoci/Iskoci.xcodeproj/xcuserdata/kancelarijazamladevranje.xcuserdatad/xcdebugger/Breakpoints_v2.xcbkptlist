@@ -1251,63 +1251,63 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0F74EF8F-BC11-4B25-8FCC-D9EAE967AB76"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Iskoci/Scenes/Notification/NotificationViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "getNotifications()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F5F722C4-1B63-4E89-97AA-3603140B0C50"
+            uuid = "014565DD-B622-4726-A753-55C45E89A7F1"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Iskoci/Scenes/Notification/NotificationViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
             landmarkName = "getNotifications()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "014565DD-B622-4726-A753-55C45E89A7F1 - 6e25d72106a5deaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.NotificationResponse, Swift.Error&gt;) -&gt; () in Iskoci.NotificationViewModel.getNotifications() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/TrajkovicSandra/Iskoci/Iskoci/Scenes/Notification/NotificationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "014565DD-B622-4726-A753-55C45E89A7F1 - 6e25d72106a5deaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.NotificationResponse, Swift.Error&gt;) -&gt; () in Iskoci.NotificationViewModel.getNotifications() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kancelarijazamladevranje/Documents/TrajkovicSandra/Iskoci/Iskoci/Scenes/Notification/NotificationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "CBE036EE-A813-441C-B05B-09E7BC49117D"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Iskoci/Scenes/Notification/NotificationViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
-            landmarkName = "getNotifications()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "48897C15-08EA-4E6B-89A6-56F8966D88A9"
+            uuid = "EFFA66F4-74C4-4FEB-B8BC-04B22C8A9B3F"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Iskoci/Networking/Services/UserService.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
             landmarkName = "getNotifications(method:header:url:parameters:_:)"
             landmarkType = "7">
          </BreakpointContent>

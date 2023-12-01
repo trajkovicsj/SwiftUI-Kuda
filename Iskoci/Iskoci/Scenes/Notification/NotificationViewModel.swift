@@ -8,6 +8,7 @@
 import Foundation
 import Alamofire
 
+@Observable
 final class NotificationViewModel {
     
     init() {

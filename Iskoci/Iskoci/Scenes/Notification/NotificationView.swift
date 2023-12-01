@@ -13,12 +13,12 @@ struct NotificationView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
             HeaderView(title: notificationModel.title)
-            if notificationModel.notifications.isEmpty {
-                initialState
-            }
-            else {
+          //  if notificationModel.notifications.isEmpty {
+               // initialState
+          //  }
+           // else {
                 notificationList
-            }
+           // }
         }
         .onTapGesture {
             

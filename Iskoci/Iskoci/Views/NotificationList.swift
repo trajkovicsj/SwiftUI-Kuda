@@ -24,8 +24,8 @@ struct NotificationList: View {
     }
 }
 
-#Preview {
-    let notification = [Notification(id: 1, eventId: 1, picture: "notification-poster", title: "Prva Biciklijada u Vranju", created: "2023-11-01T15:00:00Z", isReaded: true, link: "")]
-   return NotificationList(notifications: notification)
-        .background(.primaryBackground)
-}
+//#Preview {
+//    let notification = [Notification(id: 1, eventId: 1, picture: "notification-poster", title: "Prva Biciklijada u Vranju", created: "2023-11-01T15:00:00Z", isReaded: true, link: "")]
+//   return NotificationList(notifications: notification)
+//        .background(.primaryBackground)
+//}
